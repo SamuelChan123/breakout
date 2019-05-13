@@ -1,0 +1,12 @@
+destroy_brick
+250
+250
+-200
+-200
+level2.txt
+
+
+
+
+
+

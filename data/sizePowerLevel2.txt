@@ -1,0 +1,6 @@
+size_power
+300
+200
+-200
+-200
+level2.txt

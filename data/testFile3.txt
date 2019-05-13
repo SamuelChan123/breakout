@@ -1,0 +1,6 @@
+lose_life
+300
+300
+-100
+-100
+level1.txt
