@@ -93,7 +93,4 @@ If there are any questions at all about how to use our program/run our test case
 either one of us at jk386@duke.edu (Jaiveer Katariya) or spc28@duke.edu (Sam Chan).
 
 ### Impressions
-We enjoyed this assignment, because it let us be really creative with how we implemented different parts of the game,
-and it was unlike anything we had done for a class before. It was also fun to see features coming to life right in front
-of us, but testing them was an interesting experience, as we'd continually uncover glitches we never knew were even 
-possible, which prompted us to spend a lot of time to take care of every edge case we could think of.
+We enjoyed this project, because it let us be really creative with how we implemented different parts of the game.  It was also fun to see features coming to life right in front of us, but testing them was an interesting experience, as we'd continually uncover glitches we never knew were even possible, which prompted us to spend a lot of time to take care of every edge case we could think of.
